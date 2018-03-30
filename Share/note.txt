@@ -1,0 +1,2 @@
+(boost::factory<ios_type*>()() 
+boost::make_shared<ios_type*>()   工厂模式实现的make_shared

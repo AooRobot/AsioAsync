@@ -1,0 +1,32 @@
+﻿  tcp_client.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  main.cpp
+  client_network.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  tcp_session.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  tcp_message.cpp
+  io_service_pool.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  net_common.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0501 to the compiler command line; or
+  - add _WIN32_WINNT=0x0501 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0501 (i.e. Windows XP target).
+  正在生成代码...
+e:\codeproject\hoilday3\asioasync\course\net_common.cpp(78): warning C4715: “net_comm::send_packet”: 不是所有的控件路径都返回值
+    正在创建库 E:\CodeProject\Hoilday3\AsioAsync\Debug\Client.lib 和对象 E:\CodeProject\Hoilday3\AsioAsync\Debug\Client.exp
+  Client.vcxproj -> E:\CodeProject\Hoilday3\AsioAsync\Debug\Client.exe
+  Client.vcxproj -> E:\CodeProject\Hoilday3\AsioAsync\Debug\Client.pdb (Full PDB)
